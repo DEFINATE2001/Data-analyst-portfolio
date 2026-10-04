@@ -20,14 +20,6 @@ GITHUB PAGES DEPLOYMENT
    a branch, select main and /(root), then Save.
 6. Open the published URL shown by GitHub once deployment finishes.
 
-YOUR NAME ONLY IN THE WEBSITE ADDRESS
-To remove github.io or chatgpt.site from the address, register a custom
- domain you own, for example definatemudarikwa.com if available.
-Then add it in repository Settings > Pages > Custom domain and configure
-DNS using GitHub documentation:
-https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
-Enable Enforce HTTPS when available. No custom domain is preconfigured
-in these files, and availability of the example domain has not been checked.
 
 UPDATING PROJECTS
 Edit projects.js. Copy an existing object to add a project. Change link:null
